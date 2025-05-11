@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Ali Hassan",
+      "username": "alih",
+      "email": "ali.hassan@example.com",
+      "phone": "01012345678",
+      "website": "alihassan.devs",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mona Saeed",
+      "username": "monas",
+      "email": "mona.saeed@example.com",
+      "phone": "01098765432",
+      "website": "monasaeed.me"
+    },
+    {
+      "id": 3,
+      "name": "Omar Youssef",
+      "username": "omary",
+      "email": "omar.youssef@example.com",
+      "phone": "01123456789",
+      "website": "omaryoussef.com"
+    },
+    {
+      "name": "Laila Ahmed",
+      "username": "lailaaa",
+      "email": "laila.ahmed@example.com",
+      "phone": "01234567890",
+      "website": "laila.dev.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Khaled Nour",
+      "username": "khaledn",
+      "email": "khaled.nour@example.com",
+      "phone": "01512345678",
+      "website": "khalednour.net"
+    },
+    {
+      "id": 6,
+      "name": "Salma Tarek",
+      "username": "salmat",
+      "email": "salma.tarek@example.com",
+      "phone": "01056789012",
+      "website": "salmat.dev"
+    },
+    {
+      "name": "bashar",
+      "username": "Basharelhusseiny",
+      "email": "Basharelhusseiny@gmail",
+      "phone": "01149927789",
+      "website": "bashar.dev",
+      "id": 8
+    },
+    {
+      "name": "Omnia",
+      "username": "omniaayman",
+      "email": "omniaya@ss",
+      "phone": "011266577896",
+      "website": "omnia.sad",
+      "id": 9
+    },
+    {
+      "name": "hanaa",
+      "username": "tawfik",
+      "email": "tawfik@edjkj",
+      "phone": "01009665885",
+      "website": "tawfik",
+      "id": 17
+    }
+  ]
+}
