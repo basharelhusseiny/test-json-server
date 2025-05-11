@@ -9,7 +9,9 @@ const useFetchUsers = () => {
   useEffect(() => {
     const getData = async () => {
       try {
-        const response = await axios.get("http://localhost:3005/users");
+        const response = await axios.get(
+          "https://rust-concrete-duchess.glitch.me/users"
+        );
         setUsersData(response.data);
       } catch (err) {
         setError(err);

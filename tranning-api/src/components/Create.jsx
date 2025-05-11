@@ -22,7 +22,7 @@ const Create = () => {
       website,
     };
     try {
-      await axios.post("http://localhost:3005/users", userData);
+      await axios.post("https://rust-concrete-duchess.glitch.me/users", userData);
       console.log("User added:", userData);
       setName("");
       setUsername("");

@@ -7,7 +7,7 @@ const Home = () => {
 
   const handleDelete = async (id) => {
     try {
-      await axios.delete(`http://localhost:3005/users/${id}`);
+      await axios.delete(`https://rust-concrete-duchess.glitch.me/users/${id}`);
       setUsersData(usersData.filter((user) => user.id !== id));
     } catch (err) {
       console.error("Failed to delete user", err);

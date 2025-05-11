@@ -30,7 +30,7 @@ const Update = () => {
     e.preventDefault();
     setUpdating(true);
     try {
-      await axios.put(`http://localhost:3005/users/${id}`, {
+      await axios.put(`https://rust-concrete-duchess.glitch.me/users/${id}`, {
         name,
         username,
         email,
